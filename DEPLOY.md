@@ -291,7 +291,5 @@ Import dashboard ID: `15234` from grafana.com
 
 ## Support
 
-- Documentation: https://docs.quantum-engine.ai
 - GitHub Issues: https://github.com/quantum-bgremoval/issues
 - Enterprise Support: enterprise@quantumencoding.io
-- Community Discord: https://discord.gg/quantum-engine
