@@ -151,9 +151,9 @@ All performance claims are based on:
 
 **Quantum Engine Inc.**
 
-Sales: sales@quantumengine.ai
-Support: support@quantumengine.ai
-Legal: legal@quantumengine.ai
+Sales: sales@quantumencoding.io
+Support: support@quantumencoding.io
+Legal: legal@quantumencoding.io
 
 Address:
 Quantum Engine Inc.
@@ -168,6 +168,6 @@ United States
 **License Key Required for Activation**
 
 To obtain your license key:
-1. Complete purchase at https://quantumengine.ai/purchase
+1. Complete purchase at https://quantumencoding.io/purchase
 2. License key delivered within 1 business day
 3. Activate with: `./quantum-engine --license YOUR_KEY`
